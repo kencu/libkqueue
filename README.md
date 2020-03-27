@@ -83,7 +83,7 @@ Building Applications
 Tutorials & Examples
 --------------------
 
-[Kqueues for Fun and Profit](http://doc.geoffgarside.co.uk/kqueue)
+[Kqueues for Fun and Profit](https://web.archive.org/web/20180216170223/http://doc.geoffgarside.co.uk/kqueue/)
 
 [Handling TCP Connections with Kqueue Event Notification](http://eradman.com/posts//kqueue-tcp.html)
 
